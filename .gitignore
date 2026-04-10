@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+data/cache/
+output/*.csv
+output/*.json
+execution_artefacts/*.png
+execution_artefacts/*.gif
+execution_artefacts/*.log
+!output/.gitkeep
+!execution_artefacts/.gitkeep

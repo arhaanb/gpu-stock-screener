@@ -1,0 +1,126 @@
+# Large-cap US equity universe for the GPU stock screener.
+# Format: TICKER,SECTOR  (one per line; lines starting with # are ignored)
+# SPY is included as a benchmark and is automatically excluded from scoring.
+SPY,Benchmark
+
+# Technology
+AAPL,Technology
+MSFT,Technology
+NVDA,Technology
+GOOGL,Technology
+META,Technology
+ORCL,Technology
+CRM,Technology
+ADBE,Technology
+INTC,Technology
+AMD,Technology
+CSCO,Technology
+AVGO,Technology
+QCOM,Technology
+IBM,Technology
+TXN,Technology
+NOW,Technology
+MU,Technology
+
+# Financial
+JPM,Financial
+BAC,Financial
+WFC,Financial
+GS,Financial
+MS,Financial
+C,Financial
+AXP,Financial
+BLK,Financial
+SCHW,Financial
+USB,Financial
+V,Financial
+MA,Financial
+
+# Healthcare
+JNJ,Healthcare
+UNH,Healthcare
+PFE,Healthcare
+ABBV,Healthcare
+MRK,Healthcare
+LLY,Healthcare
+TMO,Healthcare
+ABT,Healthcare
+BMY,Healthcare
+AMGN,Healthcare
+GILD,Healthcare
+CVS,Healthcare
+
+# Consumer Discretionary
+AMZN,Consumer Discretionary
+TSLA,Consumer Discretionary
+HD,Consumer Discretionary
+NKE,Consumer Discretionary
+MCD,Consumer Discretionary
+SBUX,Consumer Discretionary
+LOW,Consumer Discretionary
+TJX,Consumer Discretionary
+BKNG,Consumer Discretionary
+F,Consumer Discretionary
+GM,Consumer Discretionary
+
+# Consumer Staples
+WMT,Consumer Staples
+PG,Consumer Staples
+KO,Consumer Staples
+PEP,Consumer Staples
+COST,Consumer Staples
+CL,Consumer Staples
+MDLZ,Consumer Staples
+MO,Consumer Staples
+PM,Consumer Staples
+DG,Consumer Staples
+
+# Energy
+XOM,Energy
+CVX,Energy
+COP,Energy
+SLB,Energy
+EOG,Energy
+MPC,Energy
+PSX,Energy
+
+# Industrial
+BA,Industrial
+CAT,Industrial
+HON,Industrial
+UPS,Industrial
+GE,Industrial
+LMT,Industrial
+RTX,Industrial
+MMM,Industrial
+DE,Industrial
+UNP,Industrial
+
+# Communication
+DIS,Communication
+VZ,Communication
+T,Communication
+CMCSA,Communication
+NFLX,Communication
+TMUS,Communication
+
+# Utilities
+NEE,Utilities
+DUK,Utilities
+SO,Utilities
+D,Utilities
+AEP,Utilities
+
+# Real Estate
+PLD,Real Estate
+AMT,Real Estate
+EQIX,Real Estate
+CCI,Real Estate
+SPG,Real Estate
+
+# Materials
+LIN,Materials
+APD,Materials
+SHW,Materials
+ECL,Materials
+FCX,Materials
